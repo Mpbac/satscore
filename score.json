@@ -1,0 +1,8 @@
+[
+    { "zip_code": "10001", "sat_score": 1500, "sat_rating": "Green", "act_score": 30, "act_rating": "Green" },
+    { "zip_code": "10001", "sat_score": 1300, "sat_rating": "Yellow", "act_score": 24, "act_rating": "Yellow" },
+    { "zip_code": "10001", "sat_score": 900, "sat_rating": "Red", "act_score": 18, "act_rating": "Red" },
+    { "zip_code": "90210", "sat_score": 1450, "sat_rating": "Green", "act_score": 28, "act_rating": "Green" },
+    { "zip_code": "90210", "sat_score": 1200, "sat_rating": "Yellow", "act_score": 22, "act_rating": "Yellow" },
+    { "zip_code": "90210", "sat_score": 800, "sat_rating": "Red", "act_score": 16, "act_rating": "Red" }
+]
